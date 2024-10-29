@@ -7,7 +7,7 @@ ArtVista Gallery
 
 #### BASEURL
 
-<p>Frontend:https://artvista-gallery-frontend-mathi.vercel.app</p>
+<p>Frontend:https://gallery-artvista.netlify.app/</p>
 <p>Backend:https://artvista-backend-1zpu.onrender.com</p>
 
 ### Key Features
